@@ -26,4 +26,4 @@ I'm hooked on developing programming languages.
 </div>
 
 # Working on
-[Rectol Language](https://github.com/rectol-lang)
+[Suzlun Language](https://github.com/suzlun-lang)
