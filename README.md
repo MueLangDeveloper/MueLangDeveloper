@@ -26,4 +26,4 @@ I'm hooked on developing programming languages.
 </div>
 
 # Working on
-[Suzlun Language](https://github.com/suzlun-lang)
+[Cargry Language](https://github.com/cargry-lang)
