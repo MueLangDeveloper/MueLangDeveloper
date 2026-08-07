@@ -2,9 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=muedever" />
 </div> -->
 
-I'm F# fun. Sorry for betraying C#.
-
-I'm hooked on developing programming languages.
+Hallo. Ich bin devtolog (compalog).
 
 # Programming Languages
 ![](https://go-skill-icons.vercel.app/api/icons?i=cs,rust&theme=light)
